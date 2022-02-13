@@ -11,4 +11,4 @@ Data Science Portfolio
 * Where MA : Marks scored by the student , NY : Number of keyword columns with value 1 , NK : Number of keywords in the question , MM : Maximum marks for each question.
 
 
-![](/images/Online Examination system.jpeg)
+![](/images/Exam.jpeg)
