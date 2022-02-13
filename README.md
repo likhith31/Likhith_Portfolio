@@ -11,4 +11,4 @@ Data Science Portfolio
 * Where MA : Marks scored by the student , NY : Number of keyword columns with value 1 , NK : Number of keywords in the question , MM : Maximum marks for each question.
 
 
-![](https://github.com/likhith31/Likhith_Portfolio/blob/8ceb40ce13b04833dd24d54e87767a253b7a9749/images/Online%20Examination%20system.jpeg)
+![](images/Online Examination system.jpeg)
