@@ -1,6 +1,14 @@
 # Likhith_Portfolio
 Data Science Portfolio
 
+# Introduction
+* I am Likhith Sai Chaitanya. 
+* I am currenttly pursuing my masters from University of New Haven,Connecticut. 
+* I completed my bachelors of technology from Amrita Vishwa Vidyapeetham,Coimbatore with an aggregate of 7.75/10.
+* I am interested in learning skills related to data science like machine learning,deep learning,tableau etc.
+
+
+
 # Project 1 : Online Examination System using NLP
 * It is a web application which is used by students to write both subjective and multiple-choice questions online.
 * Usually descriptive questions are evaluated by the faculty but in this application answers are stored in the database and are evaluated using Natural Language Processing.
@@ -11,4 +19,9 @@ Data Science Portfolio
 * Where MA : Marks scored by the student , NY : Number of keyword columns with value 1 , NK : Number of keywords in the question , MM : Maximum marks for each question.
 
 
-![](/images/Exam.jpeg)
+![](/images/1.jpeg)
+![](/images/2.jpeg)
+![](/images/3.jpeg)
+![](/images/4.jpeg)
+![](/images/5.jpeg)
+![](/images/6.jpeg)
